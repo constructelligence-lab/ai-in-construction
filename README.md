@@ -92,5 +92,5 @@ are standard construction practice.*
 
 ---
 
-*Maintained by [Constructelligence](https://constructelligence.co) — construction cost intelligence for
-contractors.*
+*Maintained by [Constructelligence](https://constructelligence.co) — building the AI infrastructure for
+construction.*
