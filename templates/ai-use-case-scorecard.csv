@@ -1,0 +1,12 @@
+Use case,Decision it improves,Who does the task today,Hours per week they spend on it,Share AI removes after review (0-1),Loaded hourly cost ($),Annual hours saved,Annual value of hours saved ($),Setup hours (one-off),Setup cost ($),Tool cost per year ($),Net value year one ($),Is the data ready? (yes/partly/no),Named owner,Notes
+EXAMPLE - job cost forecasting,Which jobs are going over,Controller,6,0.6,55,=D2*E2*52,=G2*F2,40,=I2*F2,6000,=H2-J2-K2,partly,Head of Finance,"Hours saved are the floor, not the whole value: add the margin recovered on one caught overrun"
+,Can we bid more work with the same estimators,,,,,,,,,,,,,
+,Where is next month's cash crunch coming from,,,,,,,,,,,,,
+,Which subcontractors and suppliers are drifting,,,,,,,,,,,,,
+,Which safety leading indicators are moving,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+HOW TO USE,,,,,,,,,,,,,,
+Annual hours saved,"Formula: hours per week x share removed x 52",,,,,,,,,,,,,
+Annual value of hours saved,"Formula: hours saved x loaded hourly cost (use fully loaded cost, not salary)",,,,,,,,,,,,,
+Net value year one,"Formula: hours saved value - setup cost - tool cost. Add recovered margin separately and state your assumption.",,,,,,,,,,,,,
+Rule of thumb,"If a use case cannot name the decision it improves and the person who owns that decision, it is not a use case yet.",,,,,,,,,,,,,
