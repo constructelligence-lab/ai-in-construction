@@ -89,3 +89,8 @@ can be handed to the person who owns that decision and read alone. Start with
 
 *Worked examples in this guide use invented numbers and are labelled as such. Formulas and process steps
 are standard construction practice.*
+
+---
+
+*Maintained by [Constructelligence](https://constructelligence.co) — construction cost intelligence for
+contractors.*
