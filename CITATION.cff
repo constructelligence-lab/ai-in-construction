@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: If you use or adapt this work, please cite it as below.
+type: software
+title: "AI in construction: a practical guide"
+abstract: "A practical guide to AI in construction: what works today, what your data has to look like, the risks, and a 90-day plan."
+authors:
+  - name: Constructelligence
+    website: https://constructelligence.co
+repository-code: https://github.com/constructelligence-lab/ai-in-construction
+url: https://constructelligence.co
+date-released: 2026-09-24
+keywords:
+  - "construction"
+  - "artificial intelligence"
+  - "construction management"
+  - "job cost"
+  - "estimating"

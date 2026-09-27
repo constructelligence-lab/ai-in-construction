@@ -12,6 +12,20 @@ wrong, and how to run a pilot you can actually judge.
 
 ---
 
+## The short version
+
+If you read nothing else, read this:
+
+- **Most of the value today is arithmetic over data you already own** — cost at completion, schedule risk,
+  cash — not magic. Prefer the forecast you can audit.
+- **The label covers three different technologies** with three different failure modes: computer vision,
+  language models and predictive statistics. Name which one you are looking at before you buy it.
+- **Your data decides.** Coded, current, reachable. Fixing those three pays for itself before any AI arrives.
+- **One decision, one owner, one job, twelve weeks.** That is the pilot, and it beats a company-wide rollout
+  every time.
+- **If the output leaves the company, a person reviews it.** If you cannot see the working, you cannot defend
+  the number.
+
 ## Who this is for
 
 | If you are… | Start with | The question you actually have |
@@ -89,6 +103,23 @@ can be handed to the person who owns that decision and read alone. Start with
 
 *Worked examples in this guide use invented numbers and are labelled as such. Formulas and process steps
 are standard construction practice.*
+
+<!-- begin:family -->
+## More from Constructelligence
+
+Open construction resources from the same team, all maintained alongside this one:
+
+| Repository | What it is |
+| --- | --- |
+| [Construction data migration](https://github.com/constructelligence-lab/construction-data-migration) | A guide and toolkit for moving a contractor between systems, and proving nothing was lost. |
+| [Construction project records](https://github.com/constructelligence-lab/construction-project-records) | Open schemas, templates and a checker for RFIs, submittals, change events, daily reports and punch lists. |
+| [Construction reference data](https://github.com/constructelligence-lab/construction-data) | Cost codes, units, waste factors, pay units, trade sequence, glossary and metric formulas in CSV. |
+| [Construction reference MCP server](https://github.com/constructelligence-lab/construction-mcp) | An offline MCP server that gives AI assistants construction reference data and calculators. |
+| [Construction prompts](https://github.com/constructelligence-lab/construction-prompts) | 28 prompts for ChatGPT, Claude and Gemini, from bid go/no-go to notice letters. |
+| [Construction agent skills](https://github.com/constructelligence-lab/construction-agent-skills) | 28 installable agent skills for Claude Code and any agent that reads SKILL.md. |
+| [Open source construction tools](https://github.com/constructelligence-lab/open-source-construction-tools) | Open source software for BIM, CAD, scheduling and site work, verified against the GitHub API. |
+
+<!-- end:family -->
 
 ---
 
