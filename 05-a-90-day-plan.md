@@ -8,6 +8,13 @@ Here is a plan that produces a real answer in twelve weeks: **one decision, one 
 
 ## The shape of it
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/90-day-plan-dark.svg">
+    <img src="assets/90-day-plan-light.svg" alt="A 90-day plan: weeks 1 to 2 pick the decision, 3 to 4 check the data, 5 to 8 pilot on history, 9 to 12 run it live on one job" width="100%">
+  </picture>
+</p>
+
 | Weeks | What happens | Output |
 | --- | --- | --- |
 | 1-2 | Pick the decision | A one-page charter: the decision, the owner, the metric |

@@ -10,6 +10,13 @@ wrong, and how to run a pilot you can actually judge.
 
 **Updated September 2026 · roughly a 45 minute read, or a 90-day plan if you do the work.**
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/90-day-plan-dark.svg">
+    <img src="assets/90-day-plan-light.svg" alt="A 90-day plan: weeks 1 to 2 pick the decision, 3 to 4 check the data, 5 to 8 pilot on history, 9 to 12 run it live on one job" width="100%">
+  </picture>
+</p>
+
 ---
 
 ## The short version
